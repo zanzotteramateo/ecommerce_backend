@@ -31,3 +31,14 @@ Sigue estos pasos para levantar la API en tu entorno local:
 1. **Clonar el repositorio:**
 ```bash
    git clone [https://github.com/TU_USUARIO/ecommerce_backend.git](https://github.com/TU_USUARIO/ecommerce_backend.git)
+```
+2. **Ejecutar la aplicación:**
+
+* Deja que Maven descargue las dependencias.
+* Ejecuta la clase principal MarketplaceApplication.java.
+* La API estará disponible en http://localhost:8080.
+
+## 📂 Repositorio del Frontend
+
+* La interfaz de usuario interactiva para este proyecto fue desarrollada con React y Redux. Puedes encontrar el código fuente aquí: https://github.com/zanzotteramateo/ecommerce-frontend
+
